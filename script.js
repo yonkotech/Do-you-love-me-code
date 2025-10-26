@@ -15,7 +15,7 @@ noBtn.addEventListener("mouseover", () => {
 });
 
 // /change the postion of no button
-noBtn.addEventListener("click", () => {
+mousedown", () => {
   const newX = Math.floor(Math.random() * questionContainer.offsetWidth);
   const newY = Math.floor(Math.random() * questionContainer.offsetWidth);
 
